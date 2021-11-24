@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pawtaf
+- 👋 Hi, I’m Paweł
 - 👀 I’m interested in Data Analytics & Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ML projects
